@@ -1,4 +1,4 @@
-![Banner](./img/banner.jpg)
+![Banner](./banner.jpg)
 
 <h3 align="center">Desarrollador web dedicado a crear soluciones digitales prácticas y escalables que facilitan la vida de las personas</h3>
 
